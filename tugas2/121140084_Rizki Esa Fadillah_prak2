@@ -2,7 +2,6 @@
 Nama : Rizki Esa Fadillah
 NIM : 121140084
 """
-
 #Baris 7-17, terdapat class dan dialamnya ada methode/fungsi (def) 
 class Rizki_Esa_Fadillah:
     #mehode __init__ merupakan methode konstruktor, yang didalamnya terdapat atribut variabel data mahasiswa
